@@ -1,4 +1,6 @@
-# Week 14: Project Todos
+# Week 14: Project Moody Todos
+
+Weekly project for Technigo's bootcamp, week 14: build a todo app
 
 This week's project was to build a todo app, my first project using Redux from scratch.
 
