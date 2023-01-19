@@ -25,3 +25,7 @@ Overall, I am very proud and happy with what I have achieved. I wanted an app th
 ## View it live
 
 Project deployed here: [Moody Todos](https://moody-todos.netlify.app/)
+
+<div align="center">
+  <img src="screenshot.jpg" />
+</div>
