@@ -1,4 +1,4 @@
-# Week 14: Project Moody Todos
+# Project Moody Todos
 
 Weekly project for Technigo's bootcamp, week 14: build a todo app
 
