@@ -1,10 +1,19 @@
 # Project Moody Todos
 
-Weekly project for Technigo's bootcamp, week 14: build a todo app
+Weekly project for Technigo's bootcamp, week 14: build a todo app (April 2022)
 
-This week's project was to build a todo app, my first project using Redux from scratch.
+## Tech stack
+
+- JavaScript
+- React
+- Redux
+- HTML
+- CSS
+- Styled components
 
 ## The problem
+
+This week's project was to build a todo app, my first project using Redux from scratch.
 
 I started by creating the reducer and display a basic list of hard coded todos. When I got it right, I started to add some functionalities and pushed myself to add many things in the smoothest and simplest way, as I wanted everything to be on one page. Here are the details I added. The user can:
 * add a category and the icon displayed depends on category
